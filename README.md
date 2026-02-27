@@ -3,7 +3,7 @@
 <img width="200" alt="AppIcon" src="https://github.com/user-attachments/assets/b5cdac17-8ec1-4de3-86f8-8247e2c94950" />
 
 
-Swift Student Challenge 2026 submitted.
+**Swift Student Challenge 2026 submitted.**
 
 Ham — In theater slang, a "ham" is an actor who overacts with exaggerated emotions and gestures.
 
